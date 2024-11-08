@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Poo\TareaP2\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Poo\TareaP2\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Poo\TareaP2\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Poo\TareaP2\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Poo\TareaP2\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Poo\TareaP2\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Poo\TareaP2\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Poo\TareaP2\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Poo\TareaP2\CapaDatos\obj\Debug\CapaDatos.pdb

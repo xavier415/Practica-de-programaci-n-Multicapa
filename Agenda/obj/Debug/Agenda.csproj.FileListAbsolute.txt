@@ -1,0 +1,17 @@
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Poo\TareaP2\Agenda\bin\Debug\Agenda.exe.config
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Poo\TareaP2\Agenda\bin\Debug\Agenda.exe
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Poo\TareaP2\Agenda\bin\Debug\Agenda.pdb
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Poo\TareaP2\Agenda\bin\Debug\CapaDatos.dll
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Poo\TareaP2\Agenda\bin\Debug\CapaEntidad.dll
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Poo\TareaP2\Agenda\bin\Debug\CapaNegocio.dll
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Poo\TareaP2\Agenda\bin\Debug\CapaDatos.pdb
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Poo\TareaP2\Agenda\bin\Debug\CapaEntidad.pdb
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Poo\TareaP2\Agenda\bin\Debug\CapaNegocio.pdb
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Poo\TareaP2\Agenda\obj\Debug\Agenda.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Poo\TareaP2\Agenda\obj\Debug\Agenda.Form1.resources
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Poo\TareaP2\Agenda\obj\Debug\Agenda.Properties.Resources.resources
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Poo\TareaP2\Agenda\obj\Debug\Agenda.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Poo\TareaP2\Agenda\obj\Debug\Agenda.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Poo\TareaP2\Agenda\obj\Debug\Agenda.csproj.Up2Date
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Poo\TareaP2\Agenda\obj\Debug\Agenda.exe
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Poo\TareaP2\Agenda\obj\Debug\Agenda.pdb
